@@ -255,5 +255,5 @@ scanned for secrets first, then the site is rebuilt.
 
 ## Licence
 
-MIT (see `LICENSE`). The SVGs, pages and PDFs it writes embed Excalifont, © Excalidraw, which is
+MIT (see `LICENSE`; font notice in `NOTICE`). The SVGs, pages and PDFs it writes embed Excalifont, © Excalidraw, which is
 licensed separately under the SIL Open Font License 1.1.

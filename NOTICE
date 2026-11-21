@@ -1,0 +1,7 @@
+Excalifont
+
+The SVGs, HTML pages and PDFs this library writes embed Excalifont, the
+Excalidraw hand-drawn font, (c) Excalidraw. Excalifont is licensed under the
+SIL Open Font License, Version 1.1 (https://openfontlicense.org). The font
+itself is not covered by the MIT License above; it comes from the
+@excalidraw/excalidraw package and keeps its own licence.
